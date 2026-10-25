@@ -1,0 +1,17 @@
+{
+  "name": "Yourafik — Graphic design self-learning",
+  "short_name": "Yourafik",
+  "description": "Tự học nguyên lý thiết kế đồ hoạ: từng mảnh nhỏ ghép thành hiểu biết lớn.",
+  "lang": "vi",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F6F4F1",
+  "theme_color": "#F6F4F1",
+  "icons": [
+    { "src": "/icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
